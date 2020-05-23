@@ -1,0 +1,5 @@
+id,first_name,last_name,gender,email,date_of_birth,country_of_birth,car_id,created_at,id,make,model,price
+3,Yulma,Freeburn,Male,yfreeburn2@marketwatch.com,2013-06-04,Philippines,1,2020-05-23 17:21:48.934759,1,Lamborghini,Diablo,131288.99
+4,Tudor,Belf,Male,tbelfa@jiathis.com,2008-12-27,Ukraine,2,2020-05-23 20:47:59.317599,2,Honda,Civic,72925.63
+1,Devy,Patley,Male,dpatley0@narod.ru,2004-12-06,Poland,3,2020-05-23 17:21:48.921722,3,GMC,Savana,143213.96
+2,Ernaline,Yukhnini,Female,eyukhnini1@noaa.gov,1991-05-15,China,,2020-05-23 17:21:48.932469,,,,
